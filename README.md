@@ -1,2 +1,0 @@
-# WebRootSp24
-Profile
